@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LineChartView">
+        <attr name="showPoints" format="boolean"/>
+        <attr name="showShadowGradient" format="boolean"/>
+        <attr name="showBackgroundLines" format="boolean"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="lineWidth" format="dimension"/>
+        <attr name="pointColor" format="color"/>
+        <attr name="pointRadius" format="dimension"/>
+        <attr name="backgroundLinesWidth" format="dimension"/>
+        <attr name="backgroundLinesColor" format="color"/>
+        <attr name="gradientStartColor" format="color"/>
+        <attr name="gradientEndColor" format="color"/>
+        <attr name="axisTextSize" format="dimension"/>
+        <attr name="axisTextColor" format="color"/>
+    </declare-styleable>
+</resources>
